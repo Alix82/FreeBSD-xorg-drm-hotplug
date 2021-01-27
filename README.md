@@ -18,5 +18,5 @@ UDEV_CONFIGURE_ON=      --disable-config-udev-kms
 
 to
 
-UDEV_CONFIGURE_ON=      --enabled-config-udev-kms
+UDEV_CONFIGURE_ON=      --enable-config-udev-kms
 
